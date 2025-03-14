@@ -14,7 +14,7 @@ To set up the environment for this project, follow these steps:
 conda create -n KAN_env python=3.9
 
 # 2. Activate the environment
-conda activate teds
+conda activate KAN_env
 
 # 3. Install the requirements
 pip install -r requirements.txt
