@@ -3,7 +3,7 @@ The dataset and codes which have been used while analyzing the performance of KA
 
 ## Paper
 
-Erdem, O. F., Panczyk, N. R., Radaideh, M. I. (2025). Interpretable Machine Learning Regression for Nuclear Applications with Kolmogorov-Arnold Networks (KAN). In Mathematics & Computation (M&C) 2025, Dallas, TX. https://www.ans.org/meetings/mc2025/session/view-3016/#paper_9161
+Erdem, O. F., Panczyk, N. R., Radaideh, M. I. (2025). Interpretable Machine Learning Regression for Nuclear Applications with Kolmogorov-Arnold Networks (KAN). In Mathematics & Computation (M&C) 2025, Denver, CO. https://www.ans.org/meetings/mc2025/session/view-3016/#paper_9161
 
 ## 🛠️ Environment Installation
 
